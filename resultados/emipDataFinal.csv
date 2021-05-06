@@ -1,0 +1,208 @@
+id,age,gender,mother_tongue,english_level,visual_aid,expertise_experiment_language,time_experiment_language,frequency_experiment_language,expertise_programming,time_programming,frequency_other_language,order_rectangle,order_vehicle,correct_rectangle,correct_vehicle,stimulus_rectangle,stimulus_vehicle,line_rectangle,type_rectangle,line_vehicle,type_vehicle
+1,63,male,Czech,high,glasses,high,30,not at all,high,40.0+,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,13,instance,11,if
+2,24,male,Slovak,medium,glasses,medium,2,more than 1 hour / day,medium,5,not at all,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,10,functions
+3,27,female,Hebrew,high,no,none,0,not at all,none,0,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,2,variable
+4,24,male,Hindi,high,glasses,medium,4,less than 1 hour / week,medium,10,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,10,functions
+5,24,male,Italian,medium,no,none,0,not at all,low,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+6,21,male,Chinese,medium,no,medium,2,less than 1 hour / day,medium,3,less than 1 hour / week,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,11,if
+8,26,female,Italian,high,no,none,0,not at all,low,1,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+9,38,male,German,high,no,low,14,less than 1 hour / month,high,14,more than 1 hour / day,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+10,32,male,Portuguese,high,no,low,0,less than 1 hour / month,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,11,if
+11,34,male,English,high,glasses,medium,5,less than 1 hour / month,high,16,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,4,constructor
+12,44,female,German,high,no,none,0,not at all,low,4,less than 1 hour / week,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+13,28,female,Cantonese,high,contact lenses,low,0.5,not at all,medium,7,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+14,24,male,German,high,no,medium,3,less than 1 hour / day,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,14,other,2,variable
+15,32,male,English,high,no,medium,2,less than 1 hour / day,medium,2,less than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,2,constructor,4,constructor
+16,28,male,Marathi,high,no,medium,1,more than 1 hour / day,high,5,less than 1 hour / day,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,3,variable
+17,27,male,English,high,no,medium,1,less than 1 hour / day,medium,2,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,10,functions
+18,22,female,English,high,glasses,medium,4,less than 1 hour / week,medium,4,less than 1 hour / week,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,14,other,11,if
+19,20,female,English,high,no,medium,3,more than 1 hour / day,medium,3,more than 1 hour / day,1,2,1,1,rectangle_java.jpg,vehicle_java.jpg,9,functions,12,insideIf
+20,19,male,Slovak,high,no,medium,1,more than 1 hour / day,medium,2,more than 1 hour / day,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,18,main
+21,21,male,Slovak,medium,no,low,1.5,less than 1 hour / week,low,3,less than 1 hour / month,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+22,21,male,Slovak,medium,no,medium,2,less than 1 hour / day,medium,2,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,18,main
+23,20,male,Italian,medium,glasses,low,2,not at all,medium,4,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+24,20,male,Slovak,medium,no,medium,2,not at all,medium,6,more than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+25,19,male,Slovak,low,no,medium,1,less than 1 hour / week,medium,3,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,4,constructor
+26,24,male,Slovak,high,no,high,4,less than 1 hour / month,high,7,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,19,instance
+27,31,male,English,medium,glasses,low,2,less than 1 hour / week,low,2,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,15,instance,14,insideIf
+28,25,male,Italian,medium,no,none,0,not at all,medium,5,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,3,variable
+29,22,male,Spanish,medium,contact lenses,low,1,less than 1 hour / month,low,2,less than 1 hour / month,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,12,main,5,other
+30,24,male,Hebrew,medium,no,none,0.5,less than 1 hour / week,none,0.5,not at all,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,12,insideIf
+31,23,male,Slovak,high,no,low,1,not at all,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,11,if
+32,25,male,Slovak,medium,glasses,medium,4,not at all,high,8,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+33,23,male,Slovak,high,no,medium,0.5,not at all,high,9,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,19,instance
+34,26,male,Slovak,high,no,low,3,more than 1 hour / day,medium,10,more than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+35,20,male,Slovak,medium,contact lenses,low,1,less than 1 hour / day,low,3,less than 1 hour / month,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,11,if
+36,20,female,English,high,no,none,0,not at all,none,0,not at all,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,15,instance,8,other
+37,18,male,English,high,no,low,0,less than 1 hour / week,low,0,less than 1 hour / week,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,3,variable
+38,19,male,Italian,high,glasses,none,0,not at all,none,0,not at all,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+39,68,female,Spanish,medium,glasses,low,1,not at all,low,5,less than 1 hour / day,2,1,0,1,rectangle_java.jpg,vehicle_java.jpg,12,main,2,variable
+40,21,male,English,high,glasses,medium,2,less than 1 hour / day,medium,2,more than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,4,constructor
+41,22,male,Slovak,high,glasses,low,0,not at all,high,6,less than 1 hour / week,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,3,variable
+42,27,male,German,medium,glasses,medium,2,not at all,high,5,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,11,if
+43,26,male,Hebrew,high,no,low,1,less than 1 hour / month,low,2,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+44,21,male,Slovak,medium,no,low,0.5,less than 1 hour / week,medium,2,more than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+45,20,male,Finnish,high,no,medium,1,less than 1 hour / week,medium,1,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,15,instance,11,if
+46,25,male,Slovak,medium,no,medium,5,less than 1 hour / week,medium,7,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,2,variable
+48,38,male,English,high,no,high,15,less than 1 hour / month,high,15,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+50,22,male,Punjabi,high,glasses,medium,0,less than 1 hour / day,medium,0.5,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+51,38,male,Italian,medium,glasses,medium,5,less than 1 hour / week,medium,10,more than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+53,19,male,Swedish,high,no,medium,3,less than 1 hour / month,medium,10,less than 1 hour / day,1,2,1,1,rectangle_java.jpg,vehicle_java.jpg,13,instance,4,constructor
+54,22,male,English,medium,no,medium,4,less than 1 hour / day,medium,4,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,13,instance,12,insideIf
+55,19,male,Slovak,high,no,medium,1,less than 1 hour / week,medium,7,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,10,functions
+56,20,male,Slovak,high,glasses,low,0,not at all,high,3,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,10,functions
+57,19,male,English,high,glasses,medium,4,less than 1 hour / day,medium,4,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,10,functions
+58,21,male,English,high,no,medium,2,less than 1 hour / week,medium,2,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+59,26,female,Turkish,medium,no,none,0,not at all,medium,3,less than 1 hour / month,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,11,if
+60,20,male,Slovak,medium,no,low,0.5,less than 1 hour / week,medium,4,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+61,21,male,Slovak,high,no,medium,2,less than 1 hour / day,medium,3,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+62,20,male,English,high,glasses,medium,3,less than 1 hour / day,medium,3,not at all,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,13,instance,14,insideIf
+63,31,male,Finnish,high,no,low,8,not at all,medium,8,less than 1 hour / week,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,4,constructor
+64,22,male,English,high,glasses,low,1,not at all,medium,5,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+65,24,female,English,high,no,low,0,less than 1 hour / month,low,1,less than 1 hour / month,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,9,functions,4,constructor
+66,25,female,Slovak,medium,no,medium,3,less than 1 hour / month,medium,6,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,4,constructor
+67,35,male,Slovak,medium,glasses,low,0,not at all,high,23,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,2,variable
+68,20,male,Arabic,medium,no,high,1,more than 1 hour / day,medium,1,not at all,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,3,variable
+69,31,male,Italian,medium,no,high,2,more than 1 hour / day,high,5,more than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,12,insideIf
+70,23,male,Slovak,medium,glasses,medium,1,more than 1 hour / day,low,2,less than 1 hour / week,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,12,main,4,constructor
+71,21,male,English,high,glasses,low,0.5,not at all,low,1.5,less than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,10,functions
+72,24,male,English,high,no,medium,0.5,less than 1 hour / day,medium,1,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,12,insideIf
+73,24,male,Slovak,medium,no,medium,3,more than 1 hour / day,medium,8,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,12,insideIf
+74,27,male,Slovak,medium,glasses,low,1,not at all,high,16,less than 1 hour / day,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+75,27,male,Nepali,medium,no,medium,1,less than 1 hour / day,medium,1,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,11,if
+76,23,female,English,high,glasses,high,4,less than 1 hour / month,high,4,less than 1 hour / week,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,2,constructor,10,functions
+77,20,male,Slovak,medium,no,low,1,less than 1 hour / month,medium,3,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,11,if
+78,22,male,Telugu,medium,no,low,0,less than 1 hour / week,low,0,not at all,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+79,22,male,Slovak,medium,no,low,3,not at all,medium,8,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+80,32,male,Finnish,high,contact lenses,high,10,less than 1 hour / day,high,25,less than 1 hour / day,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,4,constructor
+81,22,male,English,medium,glasses,medium,1,less than 1 hour / week,medium,1,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,4,constructor
+82,23,male,Egyptian,high,no,high,4,more than 1 hour / day,high,9,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,4,constructor
+83,19,male,English,high,no,medium,2,less than 1 hour / day,medium,5,less than 1 hour / day,2,1,0,1,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+84,30,male,Italian,medium,glasses,medium,1,less than 1 hour / month,medium,5,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+85,25,male,Finnish,high,glasses,high,6,more than 1 hour / day,high,6,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,14,other,7,other
+86,24,female,Slovak,medium,no,high,5,more than 1 hour / day,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,10,functions
+87,29,male,Slovak,high,no,high,10,less than 1 hour / day,high,20,less than 1 hour / week,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,3,variable
+88,28,male,Italian,high,glasses,medium,2,less than 1 hour / day,high,4,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+89,21,male,Slovak,high,no,medium,1,less than 1 hour / week,medium,3,less than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+90,28,male,Chinese,high,glasses,none,0,not at all,none,0,not at all,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,10,functions
+91,21,male,Czech,high,no,medium,2,less than 1 hour / month,medium,6,less than 1 hour / week,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,4,constructor
+92,47,male,English,high,glasses,high,5,more than 1 hour / day,high,37,less than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,2,variable
+93,25,female,English,high,no,none,0,not at all,none,0,not at all,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,4,constructor
+94,27,male,Italian,medium,no,low,0,not at all,medium,5,more than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,12,insideIf
+95,25,female,Italian,high,glasses,none,0,not at all,medium,5,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,7,other
+96,20,male,Slovak,high,no,none,0,not at all,low,2,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,4,constructor
+97,22,male,Telugu,medium,no,medium,2,less than 1 hour / day,medium,3,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,10,functions
+98,25,male,English,high,glasses,low,2,less than 1 hour / week,low,3,less than 1 hour / month,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,7,other,2,variable
+99,34,male,Slovak,high,no,low,1,not at all,high,15,less than 1 hour / week,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,12,insideIf
+100,19,male,English,high,no,medium,1,not at all,medium,1.5,more than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,12,main,14,insideIf
+101,46,male,German,medium,glasses,low,0,not at all,medium,36,less than 1 hour / month,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,12,main,11,if
+102,30,male,Nepali,medium,glasses,medium,1,less than 1 hour / month,medium,8,less than 1 hour / day,2,1,1,1,rectangle_java.jpg,vehicle_java.jpg,3,constructor,12,insideIf
+103,23,female,English,high,no,low,1,not at all,low,1,not at all,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,14,other,2,variable
+104,24,female,Chinese,medium,glasses,low,0,not at all,medium,3,less than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,4,constructor
+105,20,male,English,high,no,medium,3.5,less than 1 hour / month,high,4,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,7,other
+106,32,male,Italian,medium,glasses,none,0,not at all,medium,10,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,10,functions
+107,48,female,English,high,glasses,low,0,not at all,medium,3,less than 1 hour / month,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,13,instance,19,instance
+108,22,male,English,high,glasses,medium,2,less than 1 hour / month,high,4,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,11,if
+110,20,male,Italian,medium,no,none,0,not at all,medium,0,not at all,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,3,variable
+111,21,male,English,high,no,low,1,less than 1 hour / day,low,1,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,2,constructor,8,other
+112,21,male,Slovak,medium,glasses,medium,3,less than 1 hour / week,medium,7,less than 1 hour / week,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,12,insideIf
+113,36,male,Finnish,medium,glasses,medium,10,less than 1 hour / week,medium,10,less than 1 hour / week,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,12,main,11,if
+114,25,male,Slovak,medium,glasses,low,0,not at all,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,14,insideIf
+115,24,male,Slovak,medium,no,medium,4,more than 1 hour / day,medium,5,less than 1 hour / week,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,19,instance
+116,20,male,Italian,low,no,none,0,not at all,low,0,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+117,38,male,English,high,no,medium,4,not at all,medium,20,less than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+118,23,male,Finnish,high,no,high,5,less than 1 hour / day,high,6,more than 1 hour / day,1,2,1,1,rectangle_java.jpg,vehicle_java.jpg,3,constructor,11,if
+119,46,male,English,high,contact lenses,none,0,not at all,none,0,not at all,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,9,functions,4,constructor
+120,27,male,English,high,glasses,medium,2,less than 1 hour / month,medium,4,more than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,2,variable
+121,38,female,English,high,glasses,medium,3,less than 1 hour / day,medium,10,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,5,other
+122,27,male,Italian,medium,no,low,1,not at all,medium,6,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+123,62,male,Finnish,medium,glasses,high,19,not at all,high,40,less than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,19,instance
+124,22,male,English,high,no,low,3,not at all,medium,5,less than 1 hour / week,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,2,variable
+125,27,male,English,high,glasses,medium,2,less than 1 hour / day,medium,2,less than 1 hour / month,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,10,functions
+126,24,male,Slovak,high,no,low,0.5,not at all,high,15,more than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,19,instance
+127,23,male,English,high,glasses,low,0.5,less than 1 hour / month,medium,2,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,5,other
+128,33,male,German,medium,no,low,15,less than 1 hour / month,medium,18,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+129,26,male,Italian,medium,glasses,low,0,not at all,medium,7,less than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+130,22,male,English,high,glasses,none,0,not at all,low,0,not at all,2,1,0,1,rectangle_java.jpg,vehicle_java.jpg,2,constructor,2,variable
+131,21,male,English,high,no,medium,1,less than 1 hour / day,medium,1,more than 1 hour / day,2,1,0,1,rectangle_java.jpg,vehicle_java.jpg,10,functions,2,variable
+132,22,male,Telugu,medium,glasses,low,1,less than 1 hour / week,low,1,not at all,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,10,functions
+133,24,male,Slovak,medium,glasses,medium,2,less than 1 hour / week,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,4,constructor
+134,27,male,Hebrew,medium,no,low,1,less than 1 hour / week,low,1,less than 1 hour / week,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,2,variable
+135,25,male,Tamil,medium,contact lenses,medium,1,more than 1 hour / day,medium,3,not at all,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,12,insideIf
+136,55,male,English,high,no,medium,5,less than 1 hour / month,high,35,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+137,21,male,Finnish,medium,glasses,medium,3,less than 1 hour / week,high,6,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,14,insideIf
+138,25,male,Slovak,medium,no,low,2,not at all,medium,6,not at all,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+139,19,female,English,high,no,low,0,less than 1 hour / week,low,0,not at all,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+140,27,male,German,medium,no,low,3,not at all,high,7,more than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,11,if
+141,31,female,Greek,high,contact lenses,none,0,not at all,low,2,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,19,instance
+142,25,male,Slovak,medium,no,medium,3,more than 1 hour / day,medium,3,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+143,26,male,Slovak,high,no,medium,1,less than 1 hour / month,high,16,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,4,constructor
+144,20,female,English,high,contact lenses,medium,2,less than 1 hour / week,medium,2,less than 1 hour / week,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,4,constructor
+145,23,female,Italian,medium,glasses,medium,5,more than 1 hour / day,medium,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,3,variable
+146,19,female,English,high,glasses,none,0,not at all,none,0,not at all,1,2,0,1,rectangle_java.jpg,vehicle_java.jpg,2,constructor,19,instance
+147,21,male,Slovak,medium,no,medium,1,more than 1 hour / day,medium,2,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+148,26,female,Russian; Hebrew,high,glasses,medium,0,not at all,high,2,more than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,12,main,12,insideIf
+149,40,female,German,high,contact lenses,medium,13,less than 1 hour / month,high,15,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+150,47,female,English,high,no,medium,5,not at all,medium,10,less than 1 hour / day,1,2,1,1,rectangle_java.jpg,vehicle_java.jpg,15,instance,4,constructor
+151,44,male,Ukrainian,high,no,medium,3,less than 1 hour / month,high,15,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,4,constructor
+152,20,female,Slovak,medium,no,low,0.5,not at all,low,5,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,19,instance
+153,26,male,Hebrew,medium,no,medium,2,more than 1 hour / day,medium,3,more than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,12,main,4,constructor
+154,24,male,Italian,low,no,none,0,not at all,low,2,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,19,instance
+155,21,male,Slovak,medium,contact lenses,medium,2,more than 1 hour / day,medium,3,less than 1 hour / month,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,19,instance
+156,21,male,Slovak,medium,no,medium,3,less than 1 hour / day,medium,7,more than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,3,variable
+157,23,male,Telugu,high,no,medium,2,less than 1 hour / month,medium,2,less than 1 hour / week,2,1,0,1,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+158,40,male,Bengali,medium,glasses,medium,1,not at all,high,20,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,12,insideIf
+159,24,male,Italian,medium,glasses,low,2,less than 1 hour / month,medium,5,less than 1 hour / week,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+160,27,male,Chinese,low,no,high,2,less than 1 hour / day,high,3,more than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,10,functions,11,if
+162,25,male,Bengali,high,no,low,2,less than 1 hour / day,low,2,more than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,15,instance,5,other
+163,17,female,English,high,glasses,none,0,not at all,low,3,less than 1 hour / month,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,11,functions,10,functions
+164,18,male,English,high,no,low,0.5,more than 1 hour / day,low,3,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,2,variable
+165,25,male,Hebrew,medium,no,low,1,less than 1 hour / day,low,1,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,10,functions
+166,21,male,English,high,no,medium,4,less than 1 hour / month,medium,4,more than 1 hour / day,1,2,1,1,rectangle_java.jpg,vehicle_java.jpg,13,instance,18,main
+167,49,male,English,high,no,none,0,not at all,none,0,not at all,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,1,other,4,constructor
+168,20,male,Slovak,medium,glasses,medium,1,less than 1 hour / day,medium,1,less than 1 hour / day,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,10,functions
+169,27,male,English,medium,contact lenses,medium,1.5,less than 1 hour / day,medium,1.5,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,11,if
+170,59,male,German,medium,no,low,5,less than 1 hour / month,medium,35,less than 1 hour / month,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+171,20,male,Slovak,medium,no,medium,2,less than 1 hour / week,medium,4,less than 1 hour / week,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+172,22,male,Slovak,medium,no,low,1,less than 1 hour / day,low,2.5,less than 1 hour / month,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+173,28,female,English,high,contact lenses,medium,3,less than 1 hour / week,medium,5,less than 1 hour / week,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,2,constructor,4,constructor
+174,21,female,English,high,glasses,medium,1.5,less than 1 hour / day,medium,1.5,less than 1 hour / month,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,11,if
+176,36,female,Greek,high,no,low,2.5,less than 1 hour / month,low,3,less than 1 hour / month,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,15,instance,12,insideIf
+177,25,male,Hebrew,high,no,low,1,less than 1 hour / day,low,2,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,3,variable
+178,21,male,Slovak,medium,no,high,2,less than 1 hour / day,high,5,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,12,main,2,variable
+179,19,male,Persian,high,glasses,low,0.5,less than 1 hour / day,low,0.5,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,4,constructor
+180,22,female,English,high,no,low,0,not at all,low,2,not at all,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,10,functions
+181,32,female,German,medium,no,none,0,not at all,none,0,not at all,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,13,instance,18,main
+182,20,male,English,high,glasses,low,1,less than 1 hour / day,medium,1,less than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,10,functions
+183,26,male,Portuguese,high,contact lenses,low,1,less than 1 hour / month,medium,2,less than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,3,variable
+184,20,male,Italian,medium,glasses,low,1,less than 1 hour / month,medium,3,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,10,functions
+185,27,male,Slovak,medium,no,medium,3,less than 1 hour / week,medium,4,less than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,11,if
+186,22,female,Slovak,medium,glasses,low,3,less than 1 hour / day,medium,3,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+187,22,female,Spanish,medium,glasses,medium,2,less than 1 hour / month,low,2,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,10,functions
+189,24,male,Hindi,high,no,none,0,not at all,medium,5,less than 1 hour / day,2,1,0,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+190,26,male,Slovak,medium,no,medium,7,less than 1 hour / month,medium,8,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,11,if
+191,24,male,Norwegian,high,contact lenses,medium,0.5,not at all,medium,3,less than 1 hour / month,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,9,functions,10,functions
+192,26,male,English,high,no,medium,4,more than 1 hour / day,medium,5,more than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,13,instance,12,insideIf
+193,31,male,Slovak,medium,glasses,medium,2,less than 1 hour / month,medium,3,less than 1 hour / month,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,4,constructor
+194,24,male,English,high,glasses,medium,2,less than 1 hour / day,medium,2,less than 1 hour / day,1,2,1,0,rectangle_java.jpg,vehicle_java.jpg,15,instance,19,instance
+195,49,male,Finnish,high,glasses,high,5,less than 1 hour / week,high,20,less than 1 hour / week,2,1,1,1,rectangle_java.jpg,vehicle_java.jpg,3,constructor,4,constructor
+196,25,male,Slovak,high,no,none,0,not at all,low,1,less than 1 hour / day,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,11,functions,12,insideIf
+197,32,male,English,high,glasses,medium,1,less than 1 hour / week,medium,2,not at all,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,9,functions,11,if
+198,22,male,Tagalog,high,no,medium,2,less than 1 hour / month,medium,3,less than 1 hour / month,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,9,functions,4,constructor
+199,28,male,English,high,no,low,1.5,less than 1 hour / week,low,1.5,less than 1 hour / week,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,10,functions
+200,19,male,English,high,no,low,1,less than 1 hour / day,low,1.5,less than 1 hour / day,2,1,1,1,rectangle_java.jpg,vehicle_java.jpg,3,constructor,4,constructor
+201,36,male,Italian,medium,glasses,none,0,not at all,medium,10,more than 1 hour / day,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+202,22,male,English,high,contact lenses,medium,3,more than 1 hour / day,medium,4,less than 1 hour / day,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,11,if
+203,21,male,English,high,glasses,medium,2,less than 1 hour / week,medium,2.5,more than 1 hour / day,1,2,0,0,rectangle_java.jpg,vehicle_java.jpg,9,functions,4,constructor
+204,20,female,English,medium,glasses,none,0,not at all,low,0.5,not at all,2,1,0,0,rectangle_java.jpg,vehicle_java.jpg,12,main,4,constructor
+206,30,male,English; Hebrew,high,no,medium,1,more than 1 hour / day,low,1,not at all,2,1,0,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,12,insideIf
+207,20,female,Slovak,medium,contact lenses,medium,2,less than 1 hour / day,medium,2,less than 1 hour / month,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,11,if
+208,24,male,Hebrew,medium,no,low,2,less than 1 hour / week,low,2,less than 1 hour / day,2,1,1,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,5,other
+209,78,female,English,high,contact lenses,medium,5,less than 1 hour / month,high,56,less than 1 hour / month,2,1,1,0,rectangle_java.jpg,vehicle_java.jpg,3,constructor,2,variable
+210,31,male,Slovak,high,no,medium,0,not at all,high,18,more than 1 hour / day,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,11,if
+211,21,female,Italian; English,high,no,none,0,not at all,medium,1,not at all,1,2,1,0,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+212,21,male,Slovak,high,glasses,medium,2,less than 1 hour / day,medium,3,less than 1 hour / day,1,2,0,1,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,4,constructor
+213,26,male,Hindi,high,no,low,0.5,less than 1 hour / week,medium,3,less than 1 hour / week,1,2,0,0,rectangle_java2.jpg,vehicle_java2.jpg,3,constructor,2,variable
+214,21,male,Slovak,high,no,medium,1,less than 1 hour / week,medium,4,less than 1 hour / week,1,2,1,1,rectangle_java2.jpg,vehicle_java2.jpg,10,functions,11,if
+215,22,male,Slovak,medium,no,medium,1,less than 1 hour / week,medium,2,less than 1 hour / day,2,1,0,1,rectangle_java2.jpg,vehicle_java2.jpg,2,constructor,11,if
+216,22,female,Thai,high,glasses,none,0,more than 1 hour / day,none,0,not at all,2,1,1,0,rectangle_java2.jpg,vehicle_java2.jpg,12,main,5,other
